@@ -50,3 +50,25 @@ To view and interact with the Power BI reports, you will need to have [Power BI 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/powerbi-portfolio.git
+
+   ## Usage
+
+Feel free to explore and interact with the dashboards and reports. You can filter data, drill down into details, and customize the views according to your needs. If you would like to use any of these dashboards for your own projects, please give credit to this repository.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request. Let's make this portfolio even better together.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions or would like to connect, feel free to reach out to me:
+
+- **Email:** vancejordan.work@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/jordan-vance-66a99621a/)
+
+Thank you for visiting my Power BI Portfolio! 
+
